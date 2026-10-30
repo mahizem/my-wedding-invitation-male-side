@@ -13,13 +13,13 @@ export const weddingConfig = {
   time: "12:00", // 24-hour clock. 18:00 = 12:00 ሰዐት (evening) in Ethiopian time
   timezoneOffset: "+03:00", // Ethiopia (East Africa Time)
   durationHours: 5, // length of the event in the calendar file
-  dateLabelEnglish: "Sunday, 15 November 2026 · 12:00 PM",
-  dateLabelAmharic: "እሁድ ኅዳር 6 /2019 ዓ.ም · ከቀኑ 6:00 ሰዐት",
+  dateLabelEnglish: "Sunday, 15 November 2026 · 6:00 PM",
+  dateLabelAmharic: "እሁድ ኅዳር 6 /2019 ዓ.ም · ከምሽቱ 12:00 ሰዐት",
 
   // Venue / map. Fill in what you know; leave "" for the rest (nothing is invented).
   venue: {
     name: "", // e.g. "Our family home"  (optional)
-    address: "ሰሚት አትሌቶች መንደር",
+    address: "በሥራተ ገብራኤል በቀለ ት/ቤት ወረድ ብሎ",
     latitude: "", // e.g. "9.0123"  (right-click your place in Google Maps to copy)
     longitude: "", // e.g. "38.7456"
     googleMapsUrl: "https://maps.app.goo.gl/mojBvuwjLwSWHECGA?g_st=ic", // paste a "Share" link from Google Maps (best option)
@@ -36,7 +36,7 @@ export const weddingConfig = {
   story: [
     {
       title: "How We Met",
-      text: "It started in collage, where I may or may not have been a little scared of him.",
+      text: "It started in collage, where I may or may not have been a little scared of her.",
     },
     {
       title: "Our Journey",
