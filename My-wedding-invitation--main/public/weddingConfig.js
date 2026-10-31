@@ -22,7 +22,7 @@ export const weddingConfig = {
     address: "በሥራተ ገብራኤል በቀለ ት/ቤት ወረድ ብሎ",
     latitude: "", // e.g. "9.0123"  (right-click your place in Google Maps to copy)
     longitude: "", // e.g. "38.7456"
-    googleMapsUrl: "https://maps.app.goo.gl/mojBvuwjLwSWHECGA?g_st=ic", // paste a "Share" link from Google Maps (best option)
+    googleMapsUrl: "https://maps.google.com/maps?q=8.986326,38.717284&ll=8.986326,38.717284&z=16", // paste a "Share" link from Google Maps (best option)
   },
   phone: "0946276471",
   phoneLink: "+251946276471",
